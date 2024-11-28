@@ -1,0 +1,31 @@
+#heading1{
+    font-size: 32px;
+}
+
+
+#heading2{
+    font-size: 2rem;
+}
+
+
+#heading3{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#heading4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#heading5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#heading6{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#heading7{
+    font-family: cursive;
+}
+
